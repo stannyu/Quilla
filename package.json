@@ -1,0 +1,27 @@
+{
+  "name": "stx",
+  "version": "1.0.0",
+  "description": "stx group vue.js tes",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html --no-cache",
+    "serve": "json-server --watch db.json"
+  },
+  "author": "Stas Yudzitski",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "element-ui": "^2.13.2",
+    "src": "^1.1.2",
+    "vue": "^2.0.0",
+    "vue-hot-reload-api": "^2.3.4",
+    "vuex": "^3.5.1"
+  },
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^3.2.0",
+    "parcel-bundler": "^1.12.4",
+    "prettier": "^2.1.2",
+    "sass": "^1.26.11",
+    "vue-template-compiler": "^2.6.12"
+  }
+}

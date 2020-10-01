@@ -1,0 +1,105 @@
+{
+  "clients": [
+    {
+      "id": 1,
+      "name": "Client A"
+    },
+    {
+      "id": 2,
+      "name": "Client B"
+    }
+  ],
+  "contact": [
+    {
+      "clientId": 1,
+      "contacts": [
+        {
+          "id": 1,
+          "name": "Contact A1"
+        },
+        {
+          "id": 2,
+          "name": "Contact A2"
+        }
+      ]
+    },
+    {
+      "clientId": 2,
+      "contacts": [
+        {
+          "id": 3,
+          "name": "Contact B1"
+        },
+        {
+          "id": 4,
+          "name": "Contact B2"
+        }
+      ]
+    }
+  ],
+  "seller": [
+    {
+      "id": 1,
+      "name": "Seller A"
+    },
+    {
+      "id": 2,
+      "name": "Seller B"
+    },
+    {
+      "id": 3,
+      "name": "Seller C"
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "name": "Product A"
+    },
+    {
+      "id": 2,
+      "name": "Product B"
+    },
+    {
+      "id": 3,
+      "name": "Product C"
+    }
+  ],
+  "delivery-type": [
+    {
+      "id": 1,
+      "name": "Delivery A"
+    },
+    {
+      "id": 2,
+      "name": "Delivery B"
+    },
+    {
+      "id": 3,
+      "name": "Delivery C"
+    },
+    {
+      "id": 3,
+      "name": "Delivery D"
+    }
+  ],
+  "order": [],
+  "environments": [
+    {
+      "id": 12
+    },
+    {
+      "id": 19
+    }
+  ],
+  "reports": [
+    {
+      "id": 17,
+      "environmentId": 12
+    },
+    {
+      "id": 25,
+      "environmentId": 12
+    }
+  ]
+}
