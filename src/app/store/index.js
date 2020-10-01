@@ -9,16 +9,6 @@ const storage = {
     sellers: [],
     products: [],
     deliveryTypes: []
-    // isSessionsGetErrorOccured: false,
-    // isSearchFilterActive: false,
-    // searchString: null,
-    // sessionLogs: [],
-    // filteredLogs: [],
-    // activeSessionId: null,
-    // logsDisplayFilters: [],
-    // isMarkingInProgress: false,
-    // markerStartPosition: null,
-    // markerEndPosition: null
   },
   mutations: mutations,
   getters: getters,
